@@ -34,7 +34,7 @@ C++ compiler (g++, clang, or MSVC)
 CMake (version 3.10 or higher)
 Git
 Download Data
-Download airports.dat from https://openflights.org/data.html
+Download airports.dat from (https://github.com/jpatokal/openflights)
 Place it in the data/ directory
 Build Instructions
 bash
