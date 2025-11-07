@@ -1,6 +1,4 @@
-# Install script for directory: /Users/dikshakushwah0408icloud.com/Desktop/shortest-path-finder
 
-# Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
   set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
