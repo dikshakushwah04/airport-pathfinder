@@ -15,7 +15,7 @@ Interactive command-line interface
 Data Source
 OpenFlights Global Airline Dataset
 
-Source: https://openflights.org/data.html
+Source:(https://github.com/jpatokal/openflights)
 File used: airports.dat
 Contains: Airport ID, Name, City, Country, IATA code, Latitude, Longitude
 Technologies Used
