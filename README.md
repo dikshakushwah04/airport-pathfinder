@@ -15,7 +15,7 @@ Interactive command-line interface
 Data Source
 OpenFlights Global Airline Dataset
 
-Source:(https://github.com/jpatokal/openflights)
+Source:https://github.com/jpatokal/openflights
 File used: airports.dat
 Contains: Airport ID, Name, City, Country, IATA code, Latitude, Longitude
 Technologies Used
@@ -34,7 +34,7 @@ C++ compiler (g++, clang, or MSVC)
 CMake (version 3.10 or higher)
 Git
 Download Data
-Download airports.dat from (https://github.com/jpatokal/openflights)
+Download airports.dat from https://github.com/jpatokal/openflights
 Place it in the data/ directory
 Build Instructions
 bash
@@ -104,9 +104,7 @@ Graph Building
 Time Complexity: O(V² log V) for finding and sorting nearest neighbors
 Space Complexity: O(V * E)
 Contributors
-Diksha Kushwah - Bidirectional implementation, benchmarking, documentation
-Jason Nguyen - Data collection and graph implementation
-Joseph Cardillo - Dijkstra implementation
+Diksha Kushwah - Whole Project
 Video Demo
 [Link to YouTube Video] (To be added)
 
@@ -114,7 +112,8 @@ License
 This project is for educational purposes as part of COP3530 Data Structures and Algorithms course.
 
 References
-OpenFlights Airport Database: https://openflights.org/data.html
+OpenFlights Airport Database: https://github.com/jpatokal/openflights
 Dijkstra's Algorithm: Cormen, T. H., et al. "Introduction to Algorithms"
 Haversine Formula: https://en.wikipedia.org/wiki/Haversine_formula
 C++ STL Documentation: https://cplusplus.com/reference/
+
