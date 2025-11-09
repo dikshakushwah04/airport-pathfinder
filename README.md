@@ -6,7 +6,7 @@ Project Overview
 This project implements Dijkstra's algorithm to find the shortest path between airports worldwide using the OpenFlights Global Airline Dataset. The program can analyze over 10,000 airports, ferry terminals, and train stations to compute optimal routes.
 
 Features
-Load and process 10,000+ airport locations from real-world data
+Load and process 6,000+ airport locations from real-world data
 Find shortest path between any two airports using Dijkstra's algorithm
 Calculate distances using the Haversine formula (great-circle distance)
 Display complete route with intermediate stops and distances
