@@ -1,6 +1,6 @@
 Global Airport Shortest Path Finder
 Team Name: Group 55
-Team Members: Diksha Kushwah, Jason Nguyen, Joseph Cardillo (Individual work - Diksha Kushwah)
+Team Members: Diksha Kushwah, Jason Nguyen, Joseph Cardillo (solo implementation - teammates Jason Nguyen and Joseph Cardillo did not contribute)
 
 Project Overview
 This project implements Dijkstra's algorithm to find the shortest path between airports worldwide using the OpenFlights Global Airline Dataset. The program can analyze over 10,000 airports, ferry terminals, and train stations to compute optimal routes.
