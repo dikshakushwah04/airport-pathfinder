@@ -39,8 +39,8 @@ Place it in the data/ directory
 Build Instructions
 bash
 # Clone the repository
-git clone <your-repo-url>
-cd shortest-path-finder
+git clone https://github.com/dikshakushwah04/airport-pathfinder.git
+cd airport-pathfinder
 
 # Create build directory
 mkdir build
@@ -106,7 +106,7 @@ Space Complexity: O(V * E)
 Contributors
 Diksha Kushwah - Whole Project
 Video Demo
-[Link to YouTube Video] (To be added)
+https://youtu.be/JB34X105_yY?si=La4Qzf9d62mUiMA0
 
 License
 This project is for educational purposes as part of COP3530 Data Structures and Algorithms course.
